@@ -1,0 +1,16 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# macOS
+.DS_Store
+
+# Build output
+/build
+
+# Other development artifacts
+*.log
+*.tmp
+*.cache
